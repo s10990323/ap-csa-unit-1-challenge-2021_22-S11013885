@@ -11,7 +11,8 @@ public class DamageDealt {
     
         String WeaponName = myScanner.nextLine();
         
-        System.out.println("Your weapon is:" + WeaponName);  
+        System.out.println("Your weapon is:" + WeaponName); 
+         
 
 
 
