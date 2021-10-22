@@ -1,5 +1,5 @@
 import java.util.Scanner;
-
+// Peer debugging by lorenzo kenon
 // <Amari Lombel>, Damage dealt , Andrew Jackson High School, <Date>, <Time>, v0.0
 
 public class DamageDealt {
